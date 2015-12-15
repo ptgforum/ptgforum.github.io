@@ -1,2 +1,3 @@
 name: ptgforum
 markdown: kramdown
+highlighter: rouge
